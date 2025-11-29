@@ -92,7 +92,7 @@ However, for Qubic, this period represents **strategic opportunity**:
 
 | **Category** | **KPIs** | **Planned Targets** | **Targets Achieved** |
 | :--- | :--- | :--- | :--- |
-| Growth | Total ambassadors | 180+ active contributors | **Over 120 with more than 3k communities members across the globe** |
+| Growth | Total ambassadors | 180+ active contributors | **Over 120 active ambassadors with more than 3k communities members across the globe** |
 | Content | X/Twitter reach | 20M+ impressions | **At least +25M impressions** |
 | Events | Events & meetups | 5+ "large" event, 5 community event | - **Shanghai blockchain week.**<br>- **Lablab hackathon**<br>- **TOKEN2049**<br>- **The merge**<br>- **Lagos Web3** |
 | Ecosystem | BD/Uni support | 5 campuses, 5 BD introductions to companies or institutions | **1 RFP : Solana brige, Cointribune : 5 new articles, TerritorioBlockchain : 2 new articles, 4 new SC pending (Qbuild, ico portal, qusino, Qubic Crowfunding) 1 SC assist : QLOAN**<br><br>**4 campuses, 3 BD introductions to institutions, 1 Hackhaton (december), Partnership with two French schools: meeting in January (CryptoXR)** |
