@@ -12,7 +12,7 @@ Request to approve the budget of the Ambassador Program Season 5 for the months 
 
 **Option 1:** Yes, approve the budget of 49bln QUBIC
 
-The Qubic Ambassador Program is a global initiative aimed at building local communities that are passionate about Qubic. They are our boots on the ground. Qubican's (ambassadors) lead on expanding Qubic's global reach by organising local events, educating local communities, and contributing to the growth of the Qubic ecosystem by integrating more closely with the ecosystem, marketing and operation teams. At this the program has over 120 active ambassadors and over 3k members across the globe.
+The Qubic Ambassador Program is a global initiative aimed at building local communities that are passionate about Qubic. They are our boots on the ground. Qubican's (ambassadors) lead on expanding Qubic's global reach by organising local events, educating local communities, and contributing to the growth of the Qubic ecosystem by integrating more closely with the ecosystem, marketing and operation teams. At this the program has over 120 active ambassadors and over 3k community members across the globe.
 
 Cryptocurrency markets are currently experiencing downward price pressure, affecting treasury stability, project growth funding, and community morale across the broader industry.
 
@@ -34,7 +34,7 @@ However, for Qubic, this period represents **strategic opportunity**:
 
 4.  Strengthens institutional and educational footholds (universities, incubators, dev groups).
 
-The season covers a period of 2 months with a possible extension if the Qubic price further appreciates. We have cut our budget about 10K less than S4 as we understand PA conditions not favorable at the moment.
+**The season covers a period of 2 months with a possible extension if the Qubic price further appreciates as Novmeber is already closing  we are aming to cover January as well so we can cover 2 months period and we shall bare Novmeber expenese and it can be recovered incase price appreciation . We have cut our budget about 10K less than S4 as we understand PA conditions not favorable at the moment.**
 
 **Link to full proposal (incl ambassador introduction, governance, CL and workgroup requirements):**
 [Google Doc - Full Proposal](https://docs.google.com/document/d/1_h-6Aa0sXAha8cbaf3CWvIK60l80IOj3TXuKGKg3zxY/edit?usp=sharing)
@@ -92,7 +92,7 @@ The season covers a period of 2 months with a possible extension if the Qubic pr
 
 | **Category** | **KPIs** | **Planned Targets** | **Targets Achieved** |
 | :--- | :--- | :--- | :--- |
-| Growth | Total ambassadors | 180+ active contributors | **Over 120 with more than 3k ambassadors across the globe** |
+| Growth | Total ambassadors | 180+ active contributors | **Over 120 with more than 3k communities members across the globe** |
 | Content | X/Twitter reach | 20M+ impressions | **At least +25M impressions** |
 | Events | Events & meetups | 5+ "large" event, 5 community event | - **Shanghai blockchain week.**<br>- **Lablab hackathon**<br>- **TOKEN2049**<br>- **The merge**<br>- **Lagos Web3** |
 | Ecosystem | BD/Uni support | 5 campuses, 5 BD introductions to companies or institutions | **1 RFP : Solana brige, Cointribune : 5 new articles, TerritorioBlockchain : 2 new articles, 4 new SC pending (Qbuild, ico portal, qusino, Qubic Crowfunding) 1 SC assist : QLOAN**<br><br>**4 campuses, 3 BD introductions to institutions, 1 Hackhaton (december), Partnership with two French schools: meeting in January (CryptoXR)** |
@@ -101,7 +101,7 @@ The season covers a period of 2 months with a possible extension if the Qubic pr
 
 ## **Other achievements:**
 
-- **The program grew exponentially from 70 to over 3k ambassadors across the globe.**
+- **The program grew exponentially from 70 to over 3k communities members across the globe with 120 active ambassadors.**
 
 - **Creation of two new communities: Singapore , LATAM , regions all relevant Qubics ecosystem growth plan**
 
