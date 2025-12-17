@@ -111,7 +111,7 @@ Monthly report will be shared to the community through landing page where they c
 
 Ambassadors earn rewards by completing tasks for their community, such as creating content, newsletters, videos, organizing events, helping the ecosystem/marketing teams or other things that help grow the Qubic ecosystem. Program Managers and Community Leads are paid a monthly compensation, depending on the impact they had. Their impact is measured through the KPI's mentioned above.
 
-![Budget](Budget snapshot.png)
+![Budget](Picture2.png)
 
 ## **Benchmarks**
 
