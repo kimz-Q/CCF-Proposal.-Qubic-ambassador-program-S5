@@ -86,7 +86,7 @@ Season 4 expenses sheet provides full transparency for each community expenditur
 +---------------------+---------------------+---------------------------------------------------------+
 | **Content**         | Social impressions  | 25M+                                                    |
 +---------------------+---------------------+---------------------------------------------------------+
-| **Events**          | Events/meetups      | 3+ large events → to be led by the ambassador communities |
+| **Events**          | Events/meetups      | 3+ large events → to be led by the ambassadorcommunities|
 |                     |                     | 5 community driven events → Offline meetups, Workshops  |
 +---------------------+---------------------+---------------------------------------------------------+
 | **Investors**       | Investor pathway    | Unified Business development Info Deck → Multilanguage  |
@@ -99,7 +99,7 @@ Season 4 expenses sheet provides full transparency for each community expenditur
 +---------------------+---------------------+---------------------------------------------------------+
 | **Retention**       | Ambassador retention| 80%                                                     |
 +---------------------+---------------------+---------------------------------------------------------+
-| **Decentralization**| Self-managed chapters| 13 → Singapore & LATAM region (Argentina or Mexico)     |
+| **Decentralization**| Self-managedchapters| 13 → Singapore & LATAM region (Argentina or Mexico)    |
 +---------------------+---------------------+---------------------------------------------------------+
 
 ## **Budget & Governance**
@@ -110,7 +110,7 @@ Monthly report will be shared to the community through landing page where they c
 
 Ambassadors earn rewards by completing tasks for their community, such as creating content, newsletters, videos, organizing events, helping the ecosystem/marketing teams or other things that help grow the Qubic ecosystem. Program Managers and Community Leads are paid a monthly compensation, depending on the impact they had. Their impact is measured through the KPI's mentioned above.
 
-![Governance Structure](media/image1.png)
+![Governance Structure](Budget snapshot.png)
 
 ## **Benchmarks**
 
@@ -125,10 +125,10 @@ Crypto ambassador programs often allocate $200k-$500k quarterly in stable/liquid
 +-----------------------+-------------------+-------------------------+
 | **Marketing Liaison** | Defimomma         | Marketing training      |
 +-----------------------+-------------------+-------------------------+
-| **Program Manager East**| Kimz             | Onboarding, alignment   |
+| **Program Manager East**| Kimz             | Onboarding, alignment  |
 |                       |                   | (MENA/SEA)              |
 +-----------------------+-------------------+-------------------------+
-| **Program Manager West/France CL** | Raziah  | Onboarding, alignment   |
+| **Program Manager West/France CL** | Raziah  | Onboarding, alignment|
 +-----------------------+-------------------+-------------------------+
 | **France CL**         | Seb               | Local coordination      |
 +-----------------------+-------------------+-------------------------+
