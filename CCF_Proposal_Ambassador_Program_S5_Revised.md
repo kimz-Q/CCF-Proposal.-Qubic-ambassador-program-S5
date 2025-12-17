@@ -31,7 +31,7 @@ Despite market volatility impacting treasuries and morale, Qubic sees a strategi
 - Events & Hackathons Organizing.
 
 ### **Landing page:** 
-[Qubic Ambassador Program S5](https://vigorous-age-313.notion.site/ebd//2c10403da23a802cb8e3ca5608bac4f3)
+[Qubic Ambassador Program ](https://vigorous-age-313.notion.site/ebd//2c10403da23a802cb8e3ca5608bac4f3)
 ![Landing page](Picture3.png)
 ## **Season 4: Impact & Achievements Summary**
 
@@ -80,28 +80,15 @@ Season 4 expenses sheet provides full transparency for each community expenditur
 
 ## **Season 5 KPIs**
 
-+---------------------+---------------------+---------------------------------------------------------+
-| **Category**        | **KPI**             | **Target**                                              |
-+=====================+=====================+=========================================================+
-| **Growth**          | Ambassadors         | 160+ active                                             |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Content**         | Social impressions  | 25M+                                                    |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Events**          | Events/meetups      | 3+ large events → to be led by the ambassadorcommunities|
-|                     |                     | 5 community driven events → Offline meetups, Workshops  |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Investors**       | Investor pathway    | Unified Business development Info Deck → Multilanguage  |
-|                     |                     | 2-3 introductions →                                     |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Ecosystem**       | Dev/Uni support     | 4 campuses → Universities Presentation & Collaboration  |
-|                     |                     | 6 Dapps/SCs → Either directly from Ambassadors or as a  |
-|                     |                     | result of the program efforts.                          |
-|                     |                     | 3-4 dev groups → Fully onboarded and ready to build     |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Retention**       | Ambassador retention| 80%                                                     |
-+---------------------+---------------------+---------------------------------------------------------+
-| **Decentralization**| Self-managedchapters| 13 → Singapore & LATAM region (Argentina or Mexico)    |
-+---------------------+---------------------+---------------------------------------------------------+
+| **Category**        | **KPI**              | **Target**                                                                 |
+|---------------------|----------------------|---------------------------------------------------------------------------|
+| **Growth**          | Ambassadors          | 160+ active                                                               |
+| **Content**         | Social impressions   | 25M+                                                                      |
+| **Events**          | Events/meetups       | 3+ large events → to be led by the ambassador communities<br>5 community driven events → Offline meetups, Workshops |
+| **Investors**       | Investor pathway     | Unified Business development Info Deck → Multilanguage<br>2-3 introductions → |
+| **Ecosystem**       | Dev/Uni support      | 4 campuses → Universities Presentation & Collaboration<br>6 Dapps/SCs → Either directly from Ambassadors or as a result of the program efforts.<br>3-4 dev groups → Fully onboarded and ready to build |
+| **Retention**       | Ambassador retention | 80%                                                                       |
+| **Decentralization**| Self-managed chapters | 13 → Singapore & LATAM region (Argentina or Mexico)                       |
 
 ## **Budget & Governance**
 
@@ -119,44 +106,24 @@ Crypto ambassador programs often allocate $200k-$500k quarterly in stable/liquid
 
 ## **Team**
 
-+-----------------------+-------------------+-------------------------+
-| **Role**              | **Name**          | **Focus**               |
-+=======================+===================+=========================+
-| **Program Lead**      | Vacant            | Leading Strategy        |
-+-----------------------+-------------------+-------------------------+
-| **Marketing Liaison** | Defimomma         | Marketing training      |
-+-----------------------+-------------------+-------------------------+
-| **Program Manager East**| Kimz             | Onboarding, alignment  |
-|                       |                   | (MENA/SEA)              |
-+-----------------------+-------------------+-------------------------+
-| **Program Manager West/France CL** | Raziah  | Onboarding, alignment|
-+-----------------------+-------------------+-------------------------+
-| **France CL**         | Seb               | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Nomad CL**          | Popeye            | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **USA CL**            | SpaceCaddet /     | Local coordination      |
-|                       | Evandon           |                         |
-+-----------------------+-------------------+-------------------------+
-| **Spain CL**          | Joobid / Arya     | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Nigeria CL**        | Emmanuel / Xoddux | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **China CL**          | Xingyuan          | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Germany CL**        | Marty / MDC       | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Russia CL**         | Chinuk / German / | Local coordination      |
-|                       | Kavatak           |                         |
-+-----------------------+-------------------+-------------------------+
-| **Vietnam CL**        | Arya / Tien Binfort | Local coordination    |
-+-----------------------+-------------------+-------------------------+
-| **S. Korea CL**       | Parallel          | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Japan CL**          | Tendou            | Local coordination      |
-+-----------------------+-------------------+-------------------------+
-| **Singapore CL**      | QiangZ            | Local coordination      |
-+-----------------------+-------------------+-------------------------+
+| **Role**                      | **Name**                    | **Focus**                     |
+|-------------------------------|-----------------------------|-------------------------------|
+| **Program Lead**              | Vacant                      | Leading Strategy              |
+| **Marketing Liaison**         | Defimomma                   | Marketing training            |
+| **Program Manager East**      | Kimz                        | Onboarding, alignment (MENA/SEA) |
+| **Program Manager West**      | Raziah                      | Onboarding, alignment         |
+| **France CL**                 | Seb                         | Local coordination            |
+| **Nomad CL**                  | Popeye                      | Local coordination            |
+| **USA CL**                    | SpaceCaddet<br>Evandon      | Local coordination            |
+| **Spain CL**                  | Joobid<br>Arya              | Local coordination            |
+| **Nigeria CL**                | Emmanuel<br>Xoddux          | Local coordination            |
+| **China CL**                  | Xingyuan                    | Local coordination            |
+| **Germany CL**                | Marty<br>MDC                | Local coordination            |
+| **Russia CL**                 | Chinuk<br>German<br>Kavatak | Local coordination            |
+| **Vietnam CL**                | Arya<br>Tien Binfort        | Local coordination            |
+| **S. Korea CL**               | Parallel                    | Local coordination            |
+| **Japan CL**                  | Tendou                      | Local coordination            |
+| **Singapore CL**              | QiangZ                      | Local coordination            |
 
 ## **Conclusion**
 
