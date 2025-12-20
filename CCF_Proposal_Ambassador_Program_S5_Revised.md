@@ -85,7 +85,7 @@ Season 4 expenses sheet provides full transparency for each community expenditur
 | **Growth**          | Ambassadors          | 160+ active                                                               |
 | **Content**         | Social impressions   | 25M+                                                                      |
 | **Events**          | Events/meetups       | 3+ large events → to be led by the ambassador communities<br>5 community driven events → Offline meetups, Workshops |
-| **Investors**       | Investor pathway     | Unified Business development Info Deck → Multilanguage<br>2-3 introductions → |
+| **Investors**       | Investor pathway     | Unified Business development Info Deck → Multilanguage<br>2-3 introductions  |
 | **Ecosystem**       | Dev/Uni support      | 4 campuses → Universities Presentation & Collaboration<br>6 Dapps/SCs → Either directly from Ambassadors or as a result of the program efforts.<br>3-4 dev groups → Fully onboarded and ready to build |
 | **Retention**       | Ambassador retention | 80%                                                                       |
 | **Decentralization**| Self-managed chapters | 13 → Singapore & LATAM region (Argentina or Mexico)                       |
